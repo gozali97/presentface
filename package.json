@@ -1,0 +1,13 @@
+{
+  "name": "presentface",
+  "version": "1.0.0",
+  "description": "Presentface application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
